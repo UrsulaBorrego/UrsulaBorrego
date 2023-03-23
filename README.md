@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Header Github (1)](https://user-images.githubusercontent.com/113980852/227268077-3d8470c7-7a34-4bb4-a360-e53b84b5afbb.png)
 
 <!--
 **UrsulaBorrego/UrsulaBorrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
