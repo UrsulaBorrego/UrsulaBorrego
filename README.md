@@ -65,6 +65,6 @@ Mi sueño es unir mis dos mundos, y con esfuerzo y tenacidad, ¡sé que voy a co
  
 
 </div>
-<h3>#womanintech #programming #developer #frontenddeveloper #worldcode #womanwhocode #girlswhocode</h3>
+<h3>#womanintech #programming #developer #frontenddeveloper #womanwhocode #girlswhocode</h3>
 
 ![Footer Github](https://user-images.githubusercontent.com/113980852/229883842-8849d8bd-1ab3-4ff2-b4bd-56b996c147e2.png)
