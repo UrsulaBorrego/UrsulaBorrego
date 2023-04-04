@@ -48,7 +48,7 @@ Mi sueño es unir mis dos mundos, y con esfuerzo y tenacidad, ¡sé que voy a co
 
   <h2>Podemos estar en contacto en :</h2>
    <a href="https://www.linkedin.com/in/ursulaborregotoledano/">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-12406e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://twitter.com/TweetHoneySweet">
     <img src="https://img.shields.io/badge/Twitter-3EB5FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -61,6 +61,8 @@ Mi sueño es unir mis dos mundos, y con esfuerzo y tenacidad, ¡sé que voy a co
  
 
 </div>
-<h3>#womanintech #programming #developer #frontenddeveloper #womanwhocode #girlswhocode</h3>
+<br>
+   
+<br>
 
 ![Footer Github](https://user-images.githubusercontent.com/113980852/229883842-8849d8bd-1ab3-4ff2-b4bd-56b996c147e2.png)
