@@ -1,9 +1,5 @@
 ![Cabecera información Úrsula Front End Developer and Antrophologist](https://user-images.githubusercontent.com/113980852/229871158-27f065ed-824d-498e-a784-2921a97faf1f.png)
-<br>
-  
 
-  
-<br>
 <h1>¡Hola, soy Úrsula!</h1>
 👩🏻‍💻 Soy programadora web, como el título dice, y siempre he sido una persona con grandes dotes comunicativas, muy creativa, en conexión directa con el arte y la actualidad. Durante años me he dedicado a trabajar con personas, analizando, planificando, dinamizando y coordinando. Comencé estudiando antropología sociocultural, y me especialicé en igualdad, educación, mediación en conflictos, diversidad... puf, y otras tantas cosas con las que no quiero aburrirte, que aquí hablamos solo de programación (¿o no?).
 <br>
