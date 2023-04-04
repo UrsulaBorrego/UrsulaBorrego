@@ -44,8 +44,8 @@ Mi sueño es unir mis dos mundos, y con esfuerzo y tenacidad, ¡sé que voy a co
 </div>
 <div>
  <h2>Otras competencias laborales :</h2>
- <img width="350" height="350" alt="Competencias" src="https://user-images.githubusercontent.com/113980852/229879936-2fd0c4d2-7bd2-494f-88e5-183f149fbce7.png"></img>
- 
+ <img width="350" height="350" alt="Competencias" src="https://user-images.githubusercontent.com/113980852/229901187-3593f8fd-1b9a-4dce-bb9c-fb921acd132c.png"></img>
+
   <h2>Podemos estar en contacto en :</h2>
    <a href="https://www.linkedin.com/in/ursulaborregotoledano/">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -55,7 +55,7 @@ Mi sueño es unir mis dos mundos, y con esfuerzo y tenacidad, ¡sé que voy a co
   </a>
      </a>
      <a href="mailto:ursulaborrego@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Hotmail Badge"/>
+    <img src="https://img.shields.io/badge/Hotmail-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail Badge"/>
   </a>
   
  
